@@ -7,6 +7,6 @@ Using geolocation API, users can keep a log of their cycling and running workout
 ## Technologies Used
 
 - JavaScript
-- ## Leaflet.js
+- Leaflet.js
 
 [Link to Project](https://kassrojas.github.io/mapty/)
